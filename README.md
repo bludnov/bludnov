@@ -38,12 +38,12 @@ I’m a passionate developer with experience in multiple programming languages a
 
 ### **🚀 Featured Projects**  
 
-🔹 **AuraMind** - Your AI Psychologist <span style="color:green">●</span> Deployed  
+🔹 **AuraMind** - Your AI Psychologist <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="12" height="12" style="color:green;fill:green"/> Deployed  
 🤖 Bot: [click](https://t.me/AuraMind_bot) | 📢 Channel: [click](https://t.me/AuraMindru)  
 
-🔹 **J2c (Java to cpp translator)** - Translator .class code to .cpp <span style="color:yellow">●</span> Not deploy, but posted in the repository
+🔹 **J2c (Java to cpp translator)** - Translator .class code to .cpp <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="12" height="12" style="color:yellow;fill:yellow"/> Not deploy, but posted in the repository
 
-🔹 **Sterford Macro** - Macro for Bee Swarm Simulator (Roblox) made on AutoHotkey <span style="color:red">●</span> In development
+🔹 **Sterford Macro** - Macro for Bee Swarm Simulator (Roblox) made on AutoHotkey <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="12" height="12" style="color:red;fill:red"/> In development
 
 📂 **Explore all my repositories:** [click](https://github.com/bludnov?tab=repositories)  
 
