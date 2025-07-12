@@ -13,7 +13,7 @@ I’m a passionate developer with experience in multiple programming languages a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bludnov&layout=compact&theme=radical&hide_border=true)  
 
 **📈 Recent Activity**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sterford&theme=react-dark&hide_border=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bludnov&theme=react-dark&hide_border=true)  
 
 ---
 
