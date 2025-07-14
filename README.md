@@ -49,8 +49,5 @@ I’m a passionate developer with experience in multiple programming languages a
 
 ---
 
-### **📫 Let's Connect!**  
+### **📫 Contact me**  
 💬 Telegram: [@sterfordovsky](https://t.me/sterfordovsky)  
-🌐 Other socials: (add if applicable)  
-
-⭐ **Thanks for visiting!**  
