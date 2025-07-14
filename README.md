@@ -2,10 +2,6 @@
 
 ### **💻 About Me**  
 I’m a passionate developer with experience in multiple programming languages and frameworks. I love building projects, contributing to open-source, and constantly learning new tech.  
-
-🔗 **My previous work (as Bludnov):** [click](https://github.com/bludnov?tab=repositories)  
-📩 **Contact me on Telegram:** [click](https://t.me/sterfordovsky)  
-
 ---
 
 ### **📊 GitHub Stats**  
