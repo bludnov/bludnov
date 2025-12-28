@@ -24,6 +24,7 @@ I’m a passionate developer with experience in multiple programming languages a
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nodedotjs&logoColor=00DC82)
 
 #### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -37,13 +38,11 @@ I’m a passionate developer with experience in multiple programming languages a
 🔹 **AuraMind** - Your AI Psychologist 🟢 Deployed  
 🤖 Bot: [click](https://t.me/AuraMind_bot) | 📢 Channel: [click](https://t.me/AuraMindru)  
 
-🔹 **J2c (Java to cpp translator)** - Translator .class code to .cpp 🟡 Not deploy, but posted in the repository
-
-🔹 **Sterford Macro** - Macro for Bee Swarm Simulator (Roblox) made on AutoHotkey 🔴 In development
+🔹 **J2c (Java to cpp translator)** - Translator .class code to .cpp 🟢 Deployed
 
 📂 **Explore all my repositories:** [click](https://github.com/bludnov?tab=repositories)  
 
 ---
 
 ### **📫 Contact me**  
-💬 Telegram: [@sterfordovsky](https://t.me/sterfordovsky)  
+💬 Telegram: [click me](https://t.me/itzsterford)  
