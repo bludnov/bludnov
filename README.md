@@ -5,8 +5,7 @@ I’m a passionate developer with experience in multiple programming languages a
 ---
 
 ### **📊 GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bludnov&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bludnov&layout=compact&theme=radical&hide_border=true)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=merko&hide_border=true&border_radius=15&locale=ru&short_numbers=true)](https://git.io/streak-stats)
 
 **📈 Recent Activity**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bludnov&theme=react-dark&hide_border=true)  
