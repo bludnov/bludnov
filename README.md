@@ -1,20 +1,18 @@
-# **Hi there, I'm Sterford (formerly Bludnov)** 👋  
+# **Привет, я Sterford (раньше Bludnov)** 👋
 
-### **💻 About Me**  
-I’m a passionate developer with experience in multiple programming languages and frameworks. I love building projects, contributing to open-source, and constantly learning new tech.  
+### **💻 Обо мне**  
+Я разработчик с опытом работы в нескольких языках программирования и фреймворках. Люблю создавать личные проекты
+
 ---
 
-### **📊 GitHub Stats**  
+### **📊 Статистика**  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bludnov&theme=merko&hide_border=true&border_radius=15&locale=ru&short_numbers=true)](https://git.io/streak-stats)
 
-**📈 Recent Activity**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bludnov&theme=react-dark&hide_border=true)  
-
 ---
 
-### **🛠 Tech Stack**  
+### **🛠 Что я использую**  
 
-#### **Languages & Frameworks**  
+#### **Языки и фреймворки**  
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
@@ -30,7 +28,7 @@ I’m a passionate developer with experience in multiple programming languages a
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-#### **Tools & Platforms**  
+#### **Инструменты и платформы**  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -42,16 +40,9 @@ I’m a passionate developer with experience in multiple programming languages a
 
 ---
 
-### **🚀 Featured Projects**  
-
-🔹 **AuraMind** - Your AI Psychologist 🟢 Deployed  
-🤖 Bot: [click](https://t.me/AuraMind_bot) | 📢 Channel: [click](https://t.me/AuraMindru)  
-
-🔹 **J2c (Java to cpp translator)** - Translator .class code to .cpp 🟢 Deployed
-
-📂 **Explore all my repositories:** [click](https://github.com/bludnov?tab=repositories)  
+📂 **Все мои репозитории:** [нажми](https://github.com/bludnov?tab=repositories)  
 
 ---
 
-### **📫 Contact me**  
-💬 Telegram: [click me](https://t.me/itzsterford)  
+### **📫 Связаться со мной**  
+💬 Telegram: [нажми на меня](https://t.me/itzsterford)
