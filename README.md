@@ -27,6 +27,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#)
+[![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=fff)](#)
 
 #### **Инструменты и платформы**  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
