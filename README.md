@@ -47,4 +47,4 @@
 ---
 
 ### **📫 Связаться со мной**  
-💬 Telegram: [нажми на меня](https://t.me/itzsterford)
+💬 Telegram: [нажми на меня](https://t.me/ImSterford)
